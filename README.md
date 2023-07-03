@@ -1,6 +1,6 @@
 <!--
 
-# Run 'makolator inplace README.md' to update this file!
+# Run './test.sh' to update this file!
 
 MAKO TEMPLATE BEGIN
 
@@ -16,7 +16,7 @@ names = [
     'uniquer',
 ]
 %>\
-|Name|Issues|Version|Build|Documentation|Coverage|
+|Project|Issues|Package|Status|Documentation|Coverage|
 |---|---|---|---|---|---|
 % for name in names:
 | [${name}](https://github.com/nbiotcloud/${name}) | [![Issues](https://img.shields.io/github/issues/nbiotcloud/${name})](https://github.com/nbiotcloud/${name}/issues) | [![PyPI Version](https://badge.fury.io/py/${name}.svg)](https://badge.fury.io/py/${name}) | [![Python Build](https://github.com/nbiotcloud/${name}/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/${name}/actions/workflows/main.yml) | [![Documentation](https://readthedocs.org/projects/${name}/badge/?version=latest)](https://${name}.readthedocs.io/en/latest/?badge=latest) | [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/${name}/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/${name}?branch=main) |
@@ -27,7 +27,7 @@ MAKO TEMPLATE END -->
 
 
 <!-- GENERATE INPLACE BEGIN overview()> -->
-|Name|Issues|Version|Build|Documentation|Coverage|
+|Project|Issues|Package|Status|Documentation|Coverage|
 |---|---|---|---|---|---|
 | [aligntext](https://github.com/nbiotcloud/aligntext) | [![Issues](https://img.shields.io/github/issues/nbiotcloud/aligntext)](https://github.com/nbiotcloud/aligntext/issues) | [![PyPI Version](https://badge.fury.io/py/aligntext.svg)](https://badge.fury.io/py/aligntext) | [![Python Build](https://github.com/nbiotcloud/aligntext/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/aligntext/actions/workflows/main.yml) | [![Documentation](https://readthedocs.org/projects/aligntext/badge/?version=latest)](https://aligntext.readthedocs.io/en/latest/?badge=latest) | [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/aligntext/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/aligntext?branch=main) |
 | [icutil](https://github.com/nbiotcloud/icutil) | [![Issues](https://img.shields.io/github/issues/nbiotcloud/icutil)](https://github.com/nbiotcloud/icutil/issues) | [![PyPI Version](https://badge.fury.io/py/icutil.svg)](https://badge.fury.io/py/icutil) | [![Python Build](https://github.com/nbiotcloud/icutil/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/icutil/actions/workflows/main.yml) | [![Documentation](https://readthedocs.org/projects/icutil/badge/?version=latest)](https://icutil.readthedocs.io/en/latest/?badge=latest) | [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/icutil/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/icutil?branch=main) |
