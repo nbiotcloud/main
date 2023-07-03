@@ -23,7 +23,6 @@ names = [
 [![Python Build](https://github.com/nbiotcloud/${name}/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/${name}/actions/workflows/main.yml)
 [![Documentation](https://readthedocs.org/projects/${name}/badge/?version=latest)](https://${name}.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/${name}/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/${name}?branch=main)
-[![python-versions](https://img.shields.io/pypi/pyversions/${name}.svg)](https://pypi.python.org/pypi/${name})
 
 % endfor
 </%def>
@@ -38,7 +37,6 @@ MAKO TEMPLATE END -->
 [![Python Build](https://github.com/nbiotcloud/aligntext/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/aligntext/actions/workflows/main.yml)
 [![Documentation](https://readthedocs.org/projects/aligntext/badge/?version=latest)](https://aligntext.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/aligntext/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/aligntext?branch=main)
-[![python-versions](https://img.shields.io/pypi/pyversions/aligntext.svg)](https://pypi.python.org/pypi/aligntext)
 
 **[icutil](https://github.com/nbiotcloud/icutil)**
 [![Issues](https://img.shields.io/github/issues/nbiotcloud/icutil)](https://github.com/nbiotcloud/icutil/issues)
@@ -46,7 +44,6 @@ MAKO TEMPLATE END -->
 [![Python Build](https://github.com/nbiotcloud/icutil/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/icutil/actions/workflows/main.yml)
 [![Documentation](https://readthedocs.org/projects/icutil/badge/?version=latest)](https://icutil.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/icutil/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/icutil?branch=main)
-[![python-versions](https://img.shields.io/pypi/pyversions/icutil.svg)](https://pypi.python.org/pypi/icutil)
 
 **[inspectorgadget](https://github.com/nbiotcloud/inspectorgadget)**
 [![Issues](https://img.shields.io/github/issues/nbiotcloud/inspectorgadget)](https://github.com/nbiotcloud/inspectorgadget/issues)
@@ -54,7 +51,6 @@ MAKO TEMPLATE END -->
 [![Python Build](https://github.com/nbiotcloud/inspectorgadget/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/inspectorgadget/actions/workflows/main.yml)
 [![Documentation](https://readthedocs.org/projects/inspectorgadget/badge/?version=latest)](https://inspectorgadget.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/inspectorgadget/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/inspectorgadget?branch=main)
-[![python-versions](https://img.shields.io/pypi/pyversions/inspectorgadget.svg)](https://pypi.python.org/pypi/inspectorgadget)
 
 **[makolator](https://github.com/nbiotcloud/makolator)**
 [![Issues](https://img.shields.io/github/issues/nbiotcloud/makolator)](https://github.com/nbiotcloud/makolator/issues)
@@ -62,7 +58,6 @@ MAKO TEMPLATE END -->
 [![Python Build](https://github.com/nbiotcloud/makolator/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/makolator/actions/workflows/main.yml)
 [![Documentation](https://readthedocs.org/projects/makolator/badge/?version=latest)](https://makolator.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/makolator/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/makolator?branch=main)
-[![python-versions](https://img.shields.io/pypi/pyversions/makolator.svg)](https://pypi.python.org/pypi/makolator)
 
 **[matchor](https://github.com/nbiotcloud/matchor)**
 [![Issues](https://img.shields.io/github/issues/nbiotcloud/matchor)](https://github.com/nbiotcloud/matchor/issues)
@@ -70,7 +65,6 @@ MAKO TEMPLATE END -->
 [![Python Build](https://github.com/nbiotcloud/matchor/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/matchor/actions/workflows/main.yml)
 [![Documentation](https://readthedocs.org/projects/matchor/badge/?version=latest)](https://matchor.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/matchor/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/matchor?branch=main)
-[![python-versions](https://img.shields.io/pypi/pyversions/matchor.svg)](https://pypi.python.org/pypi/matchor)
 
 **[outputfile](https://github.com/nbiotcloud/outputfile)**
 [![Issues](https://img.shields.io/github/issues/nbiotcloud/outputfile)](https://github.com/nbiotcloud/outputfile/issues)
@@ -78,7 +72,6 @@ MAKO TEMPLATE END -->
 [![Python Build](https://github.com/nbiotcloud/outputfile/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/outputfile/actions/workflows/main.yml)
 [![Documentation](https://readthedocs.org/projects/outputfile/badge/?version=latest)](https://outputfile.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/outputfile/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/outputfile?branch=main)
-[![python-versions](https://img.shields.io/pypi/pyversions/outputfile.svg)](https://pypi.python.org/pypi/outputfile)
 
 **[uniquer](https://github.com/nbiotcloud/uniquer)**
 [![Issues](https://img.shields.io/github/issues/nbiotcloud/uniquer)](https://github.com/nbiotcloud/uniquer/issues)
@@ -86,6 +79,5 @@ MAKO TEMPLATE END -->
 [![Python Build](https://github.com/nbiotcloud/uniquer/actions/workflows/main.yml/badge.svg)](https://github.com/nbiotcloud/uniquer/actions/workflows/main.yml)
 [![Documentation](https://readthedocs.org/projects/uniquer/badge/?version=latest)](https://uniquer.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/nbiotcloud/uniquer/badge.svg?branch=main)](https://coveralls.io/github/nbiotcloud/uniquer?branch=main)
-[![python-versions](https://img.shields.io/pypi/pyversions/uniquer.svg)](https://pypi.python.org/pypi/uniquer)
 
 <!-- GENERATE INPLACE END overview()> -->
