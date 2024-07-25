@@ -1,0 +1,20 @@
+{
+	"folders": [
+        {"path": "../aligntext"},
+        {"path": "../humannum"},
+        {"path": "../icdutil"},
+        {"path": "../inspectorgadget"},
+        {"path": "../main"},
+        {"path": "../makolator"},
+        {"path": "../matchor"},
+        {"path": "../outputfile"},
+        {"path": "../ucdp"},
+        {"path": "../ucdp-addr"},
+        {"path": "../ucdp-amba"},
+        {"path": "../ucdp-glbl"},
+        {"path": "../ucdp-ipxact"},
+        {"path": "../ucdp-regf"},
+        {"path": "../ucdp-sv"},
+        {"path": "../uniquer"}
+    ]
+}

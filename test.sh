@@ -13,3 +13,4 @@ else
 fi
 
 makolator inplace README.md --show-diff
+makolator gen main.code-workspace.mako main.code-workspace --show-diff

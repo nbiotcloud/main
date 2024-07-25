@@ -2,7 +2,7 @@ version = "1.0"
 ##
 ## Git Workspace's Manifest. Please see the documentation at:
 ##
-## https://git-ws.readthedocs.io/en/latest/manual/manifest.html
+## https://git-ws.readthedocs.io/en/stable/manual/manifest.html
 ##
 
 
@@ -17,6 +17,10 @@ group-filters = []
 
 [defaults]
 revision = "main"
+
+[[linkfiles]]
+src = "main.code-workspace"
+dest = "main.code-workspace"
 
 [[dependencies]]
 name = "aligntext"
@@ -44,3 +48,26 @@ name = "uniquer"
 
 [[dependencies]]
 name = "makolator"
+
+[[dependencies]]
+name = "ucdp-addr"
+
+[[dependencies]]
+name = "ucdp-amba"
+
+[[dependencies]]
+name = "ucdp-glbl"
+
+[[dependencies]]
+name = "ucdp-ipxact"
+revision = "initial"
+
+# [[dependencies]]
+# name = "ucdp-mem"
+
+[[dependencies]]
+name = "ucdp-regf"
+
+[[dependencies]]
+name = "ucdp-sv"
+
