@@ -60,7 +60,6 @@ name = "ucdp-glbl"
 
 [[dependencies]]
 name = "ucdp-ipxact"
-revision = "initial"
 
 # [[dependencies]]
 # name = "ucdp-mem"
