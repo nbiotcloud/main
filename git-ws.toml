@@ -10,13 +10,14 @@ version = "1.0"
 group-filters = []
 
 
-# [[remotes]]
-# name = "myremote"
-# url-base = "https://github.com/myuser"
+[[remotes]]
+name = "nbiotcloud"
+url-base = "git@github.com:nbiotcloud"
 
 
 [defaults]
 revision = "main"
+# remote = "nbiotcloud"
 
 [[linkfiles]]
 src = "main.code-workspace"
@@ -24,6 +25,9 @@ dest = "main.code-workspace"
 
 [[dependencies]]
 name = "aligntext"
+
+[[dependencies]]
+name = "cocotb-amba"
 
 [[dependencies]]
 name = "humannum"
@@ -35,19 +39,22 @@ name = "icdutil"
 name = "inspectorgadget"
 
 [[dependencies]]
+name = "iot-riscv"
+
+[[dependencies]]
+name = "makolator"
+
+[[dependencies]]
 name = "matchor"
 
 [[dependencies]]
 name = "outputfile"
 
 [[dependencies]]
+name = "pathutil"
+
+[[dependencies]]
 name = "ucdp"
-
-[[dependencies]]
-name = "uniquer"
-
-[[dependencies]]
-name = "makolator"
 
 [[dependencies]]
 name = "ucdp-addr"
@@ -56,13 +63,16 @@ name = "ucdp-addr"
 name = "ucdp-amba"
 
 [[dependencies]]
+name = "ucdp-common"
+
+[[dependencies]]
 name = "ucdp-glbl"
 
 [[dependencies]]
 name = "ucdp-ipxact"
 
-# [[dependencies]]
-# name = "ucdp-mem"
+[[dependencies]]
+name = "ucdp-mem"
 
 [[dependencies]]
 name = "ucdp-regf"
@@ -70,3 +80,8 @@ name = "ucdp-regf"
 [[dependencies]]
 name = "ucdp-sv"
 
+[[dependencies]]
+name = "uniquer"
+
+[[dependencies]]
+name = "test2ref"
