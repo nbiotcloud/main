@@ -13,16 +13,12 @@ group-filters = []
 [[remotes]]
 name = "nbiotcloud"
 url-base = "git@github.com:nbiotcloud"
-
-
 [defaults]
 revision = "main"
-# remote = "nbiotcloud"
 
 [[linkfiles]]
 src = "main.code-workspace"
 dest = "main.code-workspace"
-
 [[dependencies]]
 name = "aligntext"
 
@@ -39,9 +35,6 @@ name = "icdutil"
 name = "inspectorgadget"
 
 [[dependencies]]
-name = "iot-riscv"
-
-[[dependencies]]
 name = "makolator"
 
 [[dependencies]]
@@ -49,9 +42,6 @@ name = "matchor"
 
 [[dependencies]]
 name = "outputfile"
-
-[[dependencies]]
-name = "pathutil"
 
 [[dependencies]]
 name = "ucdp"
@@ -85,3 +75,6 @@ name = "uniquer"
 
 [[dependencies]]
 name = "test2ref"
+
+[[dependencies]]
+name = "python-template"
